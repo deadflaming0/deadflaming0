@@ -1,6 +1,13 @@
 ## Hello 👋
 
-I'm André! I'm interested in cryptography engineering. Contact me via deadflaming0@proton.me 📫
+I'm André! I'm interested in cryptography engineering. Contact me via deadflaming0@proton.me 📫, I'm available to hire!
+
+Here's a list of my recent projects:
+
+* [effective-chainsaw](https://github.com/deadflaming0/effective-chainsaw): A Clojure implementation of FIPS-205 (SLH-DSA, the stateless hash-based digital signature standard);
+* [invincible](https://github.com/deadflaming0/invincible): A Clojure toy implementation of Oblivious Transfer by Tung Chou and Claudio Orlandi;
+* [litanie-contre-la-peur](https://github.com/deadflaming0/litanie-contre-la-peur): A partial FFC Menezes-Qu-Vanstone (MQV) implementation from NIST SP 800-56A Revision 3 in Clojure;
+* [pneuma](https://github.com/deadflaming0/pneuma): A Clojure implementation of Draft NIST Special Publication 800-38G Revision 1
 
 <!--
 **deadflaming0/deadflaming0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
