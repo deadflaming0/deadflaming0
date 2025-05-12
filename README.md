@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋
+
+I'm André! I'm interested in cryptography engineering. Contact me via deadflaming0@proton.me 📫
 
 <!--
 **deadflaming0/deadflaming0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
